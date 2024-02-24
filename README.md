@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am current a Sophmore at Howard University studying Computer Science and Mathematics. I am currently in the process of developing skills in Data Analysis, Artificial Intelligence, and Natural Language Processing.
+I am currently a sophomore at Howard University studying Computer Science and Applied Mathematics. I am currently in the process of developing skills in Data Analysis, Artificial Intelligence, and Natural Language Processing.
 
 
 ## 🌐 Socials:
