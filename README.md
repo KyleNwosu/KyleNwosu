@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a sophomore at Howard University studying Computer Science and Applied Mathematics. I am currently in the process of developing skills in Data Analysis, Machine Learning/Artificial Intelligence, and Natural Language Processing.
+I am currently a junior at Howard University studying Computer Science and Applied Mathematics. I am currently in the process of developing skills in Data Analysis, Machine Learning/Artificial Intelligence, and Natural Language Processing. I was recently an intern at Lockheed Martin in AI.
 
 
 ## 🌐 Socials:
